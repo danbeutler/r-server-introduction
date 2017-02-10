@@ -20,7 +20,7 @@ For detailed information about this great EDX course by Microsoft go and visit:
 * Compare predictions
 * Judging performance aspects on predictions
 
-## Basic functionality of R server using the client package RevoScaleR
+## Basic functionality of package RevoScaleR
 * rxImport, RrxXdfData, RxTextData -> reading files
 * rxGetInfo -> display basic information about XDF files
 * rxSummary -> univariate summaries of objects within XDF files
