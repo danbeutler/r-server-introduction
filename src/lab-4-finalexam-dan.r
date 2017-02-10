@@ -1,4 +1,4 @@
-setwd('C:/Users/Daniel/Svn/GitHub/r-server-introduction.git/trunk/data')
+setwd('C:/Users/Daniel/Svn/GitHub/r-server-introduction/trunk/data')
 
 # GROUP2Q10
 out <- 'airquality.xdf'

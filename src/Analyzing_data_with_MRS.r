@@ -17,7 +17,7 @@ install.packages('seriation') # package for reordering a distance matrix
 # 1.1d loading packages
 #####################################################################
 
-setwd('C:/Users/Daniel/Svn/GitHub/r-server-introduction.git/trunk/data')
+setwd('C:/Users/Daniel/Svn/GitHub/r-server-introduction/trunk/data')
 
 options(max.print = 1000, scipen = 999, width = 90)
 library(RevoScaleR)

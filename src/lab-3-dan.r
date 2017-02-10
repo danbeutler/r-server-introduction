@@ -3,7 +3,7 @@
 
 library(RevoScaleR)
 
-setwd('C:/Users/Daniel/Svn/GitHub/r-server-introduction.git/trunk/data')
+setwd('C:/Users/Daniel/Svn/GitHub/r-server-introduction/trunk/data')
 
 mht_xdf <- RxXdfData('mht_lab2.xdf')
 
