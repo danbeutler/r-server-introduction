@@ -3,7 +3,7 @@
 Introduction to Microsoft R Server using the RevoScaleR packages using some NYC taxi trip datasets.  
 http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
 
-Basic functionality of R server using the client package RevoScaleR:
+##Basic functionality of R server using the client package RevoScaleR
 * rxImport, RrxXdfData, RxTextData -> reading files
 * rxGetInfo -> display basic information about XDF files
 * rxSummary -> univariate summaries of objects within XDF files
@@ -19,7 +19,7 @@ Basic functionality of R server using the client package RevoScaleR:
 * rxPredict -> compute predicted values and residuals
 * rxQuantile -> approximate quantiles
 
-Topics covered:
+##Topics covered
 * file handling
 * simple and complex transformation
 * examining datasets
