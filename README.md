@@ -1,6 +1,6 @@
 # DAT213x - Analyzing Big Data with Microsoft R Server
 
-Introduction to Microsoft R Server using the RevoScaleR package using some NYC taxi trip datasets.  
+Introduction to Microsoft R Server using the RevoScaleR package and some NYC taxi trip datasets.  
 
 For detailed information about this great EDX course by Microsoft go and visit:  
 :point_right: https://courses.edx.org/courses/course-v1:Microsoft+DAT213x+3T2016/info
