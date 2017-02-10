@@ -1,9 +1,11 @@
 # DAT213x - Analyzing Big Data with Microsoft R Server
 
 Introduction to Microsoft R Server using the RevoScaleR packages using some NYC taxi trip datasets.  
-http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
 
-##Topics covered
+For detailed information about this great EDX course by Microsoft go and visit:  
+:point_right: https://courses.edx.org/courses/course-v1:Microsoft+DAT213x+3T2016/info
+
+## Topics covered
 * File handling
 * Simple and complex transformation
 * Examining datasets
@@ -18,7 +20,7 @@ http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
 * Compare predictions
 * Judging performance aspects on predictions
 
-##Basic functionality of R server using the client package RevoScaleR
+## Basic functionality of R server using the client package RevoScaleR
 * rxImport, RrxXdfData, RxTextData -> reading files
 * rxGetInfo -> display basic information about XDF files
 * rxSummary -> univariate summaries of objects within XDF files
